@@ -1,6 +1,6 @@
 # typers
+
 'typers' are variables that can be values or functions at runtime for Common Lisp
-====
 
 The convention is to use a trailing 'r' on a typer variable, such as 'countr' for a variable named 'count' that happens to be a typer.
 
